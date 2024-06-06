@@ -62,7 +62,7 @@ export default function Hero() {
                 <div className="h-[100vh] mdlg:h-[100vh] relative">
                     <div className="mdlg:h-[100vh] overflow-hidden ">
                         <div className="h-[100vh] overflow-hidden ">
-                            <img src={`./assets/Home/hall/mnc_hall.png`} className="kenburns-right h-[100vh] overflow-hidden object-cover w-full" />
+                            <img src={`./assets/Home/hall/mnc_hall.png`} className=" h-[100vh] overflow-hidden object-cover w-full" />
                         </div>
                         <div className="absolute top-0 bg-[#00000061] w-full h-full">
                             <div className="lg:block lge:block md:hidden  mdsm:hidden sm:hidden absolute top-0 w-full px-8">
