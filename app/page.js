@@ -12,7 +12,6 @@ import Footer from "./Components/Home/Footer";
 export default function Home() {
   return (
   <main>
-
     <Hero/>
     <AboutUs/>
     <Gallery/>
@@ -20,7 +19,6 @@ export default function Home() {
     <HighLight/>
     <ContactDetails/>
     <Footer/>
-
   </main>
   );
 }
