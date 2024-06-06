@@ -131,8 +131,8 @@ export default function Hero() {
               </div>
               <div className="container mx-auto h-full">
                 <div className="grid grid-cols-1 gap-4 h-full">
-                  <div className="h-full absolute top-0">
-                    <div className="h-full px-8 flex justify-center items-center">
+                  <div className="h-full ">
+                    <div className="h-full flex justify-center items-center">
                       <div className="block">
                         <div className="flex justify-center">
                           <img
