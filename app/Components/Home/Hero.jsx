@@ -32,7 +32,7 @@ export default function Hero() {
                   />
                 </div>
                 <div className="text-white py-0">
-                  <img src={`./assets/Home/logo2.png`} />
+                  <img src={`./assets/Home/logo.png`} />
                 </div>
                 <div></div>
                 <div className="=  p-4">
@@ -301,7 +301,7 @@ export default function Hero() {
               </div>
               <div className="container mx-auto h-full">
                 <div className="grid grid-cols-1 gap-4 h-full">
-                  <div className="h-full ">
+                  <div className="h-full sm:absolute sm:top-0">
                     <div className="h-full flex justify-center items-center">
                       <div className="block">
                         <div className="flex justify-center">

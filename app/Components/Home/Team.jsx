@@ -1,20 +1,20 @@
-import React from "react";
-
 export default function Team() {
   return (
-    <div className=" container mx-auto pb-32">
-                        <div className="text-[36px] pb-6 text-center sm:px-2  text-primary font-semibold">Eventful Experiences Shared by Our Guests</div>
+    <div className="container mx-auto pb-32">
+      <div className="text-[36px] pb-6 text-center sm:px-2  text-primary font-semibold">
+        Eventful Experiences Shared by Our Guests
+      </div>
 
-      <div className=" grid grid-cols-3 gap-10">
-        <div className=" p-3">
+      <div className=" grid 2xl:grid-cols-3 xl:grid-cols-3 lg:grid-cols-3 lge:grid-cols-3 md:grid-cols-2 mdsm:grid-cols-1 sm:grid-cols-1 gap-10">
+        <div className="p-3">
           <img
             src={`./assets/Home/noprofile.webp`}
-            className=" h-[200px] w-[200px] rounded-full object-cover mx-auto"
+            className="h-[200px] w-[200px] rounded-full object-cover mx-auto"
           />
-          <h2 className=" text-center text-h2 text-black font-semibold pt-2 ">
+          <h2 className="text-center text-h2 text-black font-semibold pt-2">
             Sathish SKN
           </h2>
-          <div className=" text-center pt-2">
+          <div className="text-center pt-2">
             Had my brothers marriage reception at this auditorium, and it was
             fantastic! The space was bright and airy, and the staff went above
             and beyond to make sure everything was set up perfectly. It was a
@@ -22,12 +22,12 @@ export default function Team() {
           </div>
         </div>
 
-        <div className=" p-3">
+        <div className="p-3">
           <img
             src={`./assets/Home/noprofile.webp`}
-            className=" h-[200px] w-[200px] rounded-full object-cover mx-auto"
+            className="h-[200px] w-[200px] rounded-full object-cover mx-auto"
           />
-          <h2 className=" text-center text-h2 text-black font-semibold pt-2 ">
+          <h2 className="text-center text-h2 text-black font-semibold pt-2">
             Samanue{" "}
           </h2>
           <div className="text-center pt-2">
@@ -41,9 +41,9 @@ export default function Team() {
         <div className=" p-3">
           <img
             src={`./assets/Home/noprofilefemale.webp`}
-            className=" h-[200px] w-[200px] rounded-full object-cover mx-auto"
+            className="h-[200px] w-[200px] rounded-full object-cover mx-auto"
           />
-          <h2 className=" text-center text-h2 text-black font-semibold pt-2 ">
+          <h2 className="text-center text-h2 text-black font-semibold pt-2">
             Vidhya Selvaraj{" "}
           </h2>
           <div className="text-center pt-2">
