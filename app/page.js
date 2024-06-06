@@ -25,7 +25,6 @@ export default function Home() {
         <>
           <div className={` model-popup`}>
             <div className=" block">
-              {/* <img src="./assets/Home/logo2.png" alt="M"/> */}
             </div>
             <span className="loader"></span>
           </div>
