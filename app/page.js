@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import "./style.css"
 import Hero from "./Components/Home/Hero";
 import AboutUs from "./Components/Home/AboutUs";
